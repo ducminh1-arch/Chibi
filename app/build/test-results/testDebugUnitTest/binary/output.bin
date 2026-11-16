@@ -1,0 +1,4 @@
+()1=== MEMORY MEASUREMENT REPORT FOR 21 LAYERS ===
+()RFull 1024x1536 uncompressed: 126.00 MB (UNSAFE to keep on-screen simultaneously)
+()DOn-Screen downsampled (360x540): 15.57 MB (87.5% memory reduction)
+()ATablet downsampled (512x768): 31.50 MB (75.0% memory reduction)

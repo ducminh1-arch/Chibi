@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.chibidoll.dressup.CompositingPixelTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2026-11-11T09:48:40" hostname="DESKTOP-TPKLOP0" time="2.249">
+  <properties/>
+  <testcase name="compositing_assertPixelColorsAtCoordinates_higherZOrderCoversLowerAndBackgroundShowsThrough" classname="com.chibidoll.dressup.CompositingPixelTest" time="1.42"/>
+  <testcase name="compositing_withNoBackground_paintsDefaultPastelCanvas" classname="com.chibidoll.dressup.CompositingPixelTest" time="0.829"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.chibidoll.dressup.LanguageAndSoundHardenTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2026-11-11T09:48:43" hostname="DESKTOP-TPKLOP0" time="0.564">
+  <properties/>
+  <testcase name="soundManager_rapidRepeatedPlayback_executesWithoutCrashing" classname="com.chibidoll.dressup.LanguageAndSoundHardenTest" time="0.096"/>
+  <testcase name="soundManager_release_cleansUpSafely" classname="com.chibidoll.dressup.LanguageAndSoundHardenTest" time="0.077"/>
+  <testcase name="applyLocale_setsApplicationLocalesCorrectly" classname="com.chibidoll.dressup.LanguageAndSoundHardenTest" time="0.134"/>
+  <testcase name="mainActivity_extendsAppCompatActivity_forImmediateLocaleRecreation" classname="com.chibidoll.dressup.LanguageAndSoundHardenTest" time="0.256"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

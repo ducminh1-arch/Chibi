@@ -1,0 +1,112 @@
+<resources>
+    <string name="app_name">Búp Bê Chibi</string>
+    <string name="tagline">Trò chơi thay đồ và tạo búp bê dễ thương</string>
+    <string name="splash_tagline">Tạo &amp; Thay Đồ Cho Búp Bê Chibi Dễ Thương</string>
+
+    <!-- Categories -->
+    <string name="category_hair">Kiểu tóc</string>
+    <string name="category_face">Khuôn mặt</string>
+    <string name="category_eyes">Đôi mắt</string>
+    <string name="category_eyes_line">Dáng mắt</string>
+    <string name="category_eyes_iris">Màu mắt</string>
+    <string name="category_eyebrows">Lông mày</string>
+    <string name="category_mouth">Khuôn miệng</string>
+    <string name="category_blush">Má hồng</string>
+    <string name="category_body">Cơ thể</string>
+    <string name="category_dress">Váy liền</string>
+    <string name="category_top">Áo</string>
+    <string name="category_bottom">Váy &amp; Quần</string>
+    <string name="category_outerwear">Áo khoác</string>
+    <string name="category_socks">Tất &amp; Vớ</string>
+    <string name="category_shoes">Giày</string>
+    <string name="category_glasses">Mắt kính</string>
+    <string name="category_ears">Tai thú</string>
+    <string name="category_tail">Đuôi thú</string>
+    <string name="category_wings">Đôi cánh</string>
+    <string name="category_hat">Mũ &amp; Nơ</string>
+    <string name="category_accessory">Phụ kiện</string>
+    <string name="category_background">Hình nền</string>
+
+    <!-- Buttons & Actions -->
+    <string name="btn_play">Chơi ngay</string>
+    <string name="btn_my_collection">Bộ sưu tập</string>
+    <string name="btn_save">Lưu lại</string>
+    <string name="btn_confirm">Hoàn thành</string>
+    <string name="btn_reset">Mặc lại</string>
+    <string name="btn_random">Ngẫu nhiên</string>
+    <string name="btn_share">Chia sẻ</string>
+    <string name="btn_delete">Xóa</string>
+    <string name="btn_edit">Sửa trang phục</string>
+    <string name="btn_back">Quay lại</string>
+    <string name="btn_cancel">Hủy bỏ</string>
+    <string name="btn_close">Đóng</string>
+    <string name="btn_background">Hình nền</string>
+    <string name="btn_create_look">Thay đồ ngay</string>
+    <string name="btn_save_gallery">Lưu vào Thư viện</string>
+    <string name="btn_back_to_edit">Chỉnh sửa tiếp</string>
+
+    <!-- Background Picker -->
+    <string name="background_picker_title">Chọn hình nền</string>
+    <string name="no_background">Không hình nền</string>
+
+    <!-- Confirm Screen & Export -->
+    <string name="confirm_screen_title">Búp Bê Của Bé!</string>
+    <string name="saving_in_progress">Đang lưu trang phục đáng yêu…</string>
+    <string name="save_gallery_success">Đã lưu vào Thư viện ảnh (Pictures/ChibiDoll)!</string>
+    <string name="save_collection_success">Đã lưu vào Bộ sưu tập!</string>
+    <string name="save_failed">Không thể lưu trang phục. Vui lòng thử lại.</string>
+    <string name="share_look_title">Chia sẻ Búp Bê Chibi</string>
+    <string name="share_failed">Không thể chia sẻ trang phục.</string>
+    <string name="permission_storage_rationale">Cần cấp quyền truy cập bộ nhớ để lưu ảnh vào thư viện trên thiết bị này.</string>
+
+    <!-- Collection & Details -->
+    <string name="saved_successfully">Đã lưu vào bộ sưu tập!</string>
+    <string name="empty_collection">Chưa có trang phục nào! Hãy tạo búp bê ngay nhé.</string>
+    <string name="collection_empty_title">Tủ đồ đang chờ búp bê xinh đẹp của bé!</string>
+    <string name="confirm_delete_title">Xóa trang phục</string>
+    <string name="confirm_delete_msg">Bạn có chắc muốn xóa trang phục này không?</string>
+    <string name="delete_success">Đã xóa trang phục khỏi bộ sưu tập</string>
+    <string name="look_detail_title">Trang phục Chibi</string>
+    <string name="item_locked">Vật phẩm đang khóa</string>
+
+    <!-- Onboarding -->
+    <string name="onboarding_skip">Bỏ qua</string>
+    <string name="onboarding_next">Tiếp theo</string>
+    <string name="onboarding_get_started">Bắt đầu ngay</string>
+    <string name="onboarding_page1_title">Chào mừng đến với Búp Bê Chibi!</string>
+    <string name="onboarding_page1_desc">Tự tay thiết kế và diện đồ cho những bé búp bê chibi siêu đáng yêu theo phong cách riêng của bé.</string>
+    <string name="onboarding_page2_title">Vô vàn trang phục &amp; phụ kiện</string>
+    <string name="onboarding_page2_desc">Thỏa sức phối đồ với hàng loạt kiểu tóc, áo xinh, váy đáng yêu, phụ kiện và hình nền rực rỡ.</string>
+    <string name="onboarding_page3_title">Lưu trữ &amp; Chia sẻ</string>
+    <string name="onboarding_page3_desc">Xuất ảnh chất lượng cao (1024×1536), lưu vào bộ sưu tập cá nhân và chia sẻ cho bạn bè cùng ngắm nhìn!</string>
+
+    <!-- Settings -->
+    <string name="settings_title">Cài đặt</string>
+    <string name="settings_sound_title">Âm thanh</string>
+    <string name="settings_sound_desc">Bật âm thanh vui nhộn khi thay đồ và tương tác</string>
+    <string name="settings_sound_on">Bật âm thanh</string>
+    <string name="settings_sound_off">Tắt âm</string>
+    <string name="settings_language_title">Ngôn ngữ</string>
+    <string name="settings_language_system">Mặc định hệ thống</string>
+    <string name="settings_language_vi">Tiếng Việt</string>
+    <string name="settings_language_en">English</string>
+    <string name="settings_app_info_title">Thông tin ứng dụng</string>
+    <string name="settings_version">Phiên bản 1.0.0</string>
+    <string name="settings_kid_safe_badge">100% An toàn cho bé &amp; Ngoại tuyến</string>
+    <string name="settings_privacy_note">Không quảng cáo, không theo dõi và hoàn toàn không cần kết nối mạng. An toàn và lành mạnh cho trẻ em!</string>
+
+    <!-- Phase 4: Character Select & Restructure -->
+    <string name="character_select_title">Chọn Búp Bê Chibi</string>
+    <string name="character_select_subtitle">Chọn một bé búp bê dễ thương để bắt đầu diện đồ</string>
+    <string name="btn_select_character">Thay đồ ngay!</string>
+    <string name="btn_create_character">Tạo nhân vật</string>
+    <string name="coming_soon">Sắp ra mắt</string>
+    <string name="reset_confirm_title">Đặt lại trang phục?</string>
+    <string name="reset_confirm_message">Đặt lại trang phục về kiểu dáng ban đầu của búp bê?</string>
+    <string name="palette_title">Bảng màu</string>
+    <string name="palette_hint">Chạm vào một màu để đổi màu trang phục trực tiếp!</string>
+    <string name="group_clothes">Trang phục</string>
+    <string name="group_accessories">Phụ kiện</string>
+    <string name="group_scene">Khung cảnh</string>
+    <string name="group_appearance">Nhân vật</string>
+</resources>

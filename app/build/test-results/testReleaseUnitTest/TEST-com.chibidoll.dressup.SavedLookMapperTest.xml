@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.chibidoll.dressup.SavedLookMapperTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2026-11-11T09:48:51" hostname="DESKTOP-TPKLOP0" time="0.064">
+  <properties/>
+  <testcase name="toCharacterLook_handlesMissingCatalogItemsGracefully" classname="com.chibidoll.dressup.SavedLookMapperTest" time="0.061"/>
+  <testcase name="toEntity_withEmptyLook_serializesAndRestoresSafely" classname="com.chibidoll.dressup.SavedLookMapperTest" time="0.0"/>
+  <testcase name="toEntity_and_toCharacterLook_preservesLayerColors" classname="com.chibidoll.dressup.SavedLookMapperTest" time="0.002"/>
+  <testcase name="toEntity_and_toCharacterLook_preservesAllEquippedItemsAndBackground" classname="com.chibidoll.dressup.SavedLookMapperTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

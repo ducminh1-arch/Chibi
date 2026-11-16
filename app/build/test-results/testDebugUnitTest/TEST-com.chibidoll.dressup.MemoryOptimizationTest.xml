@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.chibidoll.dressup.MemoryOptimizationTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2026-11-13T08:17:01" hostname="DESKTOP-TPKLOP0" time="0.009">
+  <properties/>
+  <testcase name="verifyLayerCount_coversAll21Layers" classname="com.chibidoll.dressup.MemoryOptimizationTest" time="0.001"/>
+  <testcase name="calculateMemory_21LayersEquipped_downsampledVsFullMaster" classname="com.chibidoll.dressup.MemoryOptimizationTest" time="0.008"/>
+  <system-out><![CDATA[=== MEMORY MEASUREMENT REPORT FOR 21 LAYERS ===
+Full 1024x1536 uncompressed: 126.00 MB (UNSAFE to keep on-screen simultaneously)
+On-Screen downsampled (360x540): 15.57 MB (87.5% memory reduction)
+Tablet downsampled (512x768): 31.50 MB (75.0% memory reduction)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

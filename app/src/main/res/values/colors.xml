@@ -1,0 +1,9 @@
+<resources>
+    <color name="primary_pastel_pink">#FFB6C1</color>
+    <color name="primary_pastel_purple">#D8B4F8</color>
+    <color name="pastel_bg_lavender">#F5EEF8</color>
+    <color name="pastel_bg_cream">#FFF9F5</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#2C2C2C</color>
+</resources>
+

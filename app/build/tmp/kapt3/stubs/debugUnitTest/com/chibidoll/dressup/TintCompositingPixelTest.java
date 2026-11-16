@@ -1,0 +1,23 @@
+package com.chibidoll.dressup;
+
+@org.junit.runner.RunWith(value = org.robolectric.RobolectricTestRunner.class)
+@org.robolectric.annotation.Config(shadows = {com.chibidoll.dressup.ShadowTestBitmap.class, com.chibidoll.dressup.ShadowTintTestCanvas.class})
+@kotlin.Metadata(mv = {1, 9, 0}, k = 1, xi = 48, d1 = {"\u0000\u0014\n\u0002\u0018\u0002\n\u0002\u0010\u0000\n\u0002\b\u0002\n\u0002\u0010\u0002\n\u0002\b\u0003\b\u0007\u0018\u00002\u00020\u0001B\u0005\u00a2\u0006\u0002\u0010\u0002J\b\u0010\u0003\u001a\u00020\u0004H\u0007J\b\u0010\u0005\u001a\u00020\u0004H\u0007J\b\u0010\u0006\u001a\u00020\u0004H\u0007\u00a8\u0006\u0007"}, d2 = {"Lcom/chibidoll/dressup/TintCompositingPixelTest;", "", "()V", "tintRendering_dualLayerItem_hairFrontAndHairBack_bothTintedIdentically", "", "tintRendering_exportedBitmapEqualsOnScreenMultiplyFormula", "tintRendering_whiteFillBecomesSwatchColor_darkOutlineStaysDark_transparentShowsBackground", "app_debugUnitTest"})
+public final class TintCompositingPixelTest {
+    
+    public TintCompositingPixelTest() {
+        super();
+    }
+    
+    @org.junit.Test()
+    public final void tintRendering_whiteFillBecomesSwatchColor_darkOutlineStaysDark_transparentShowsBackground() {
+    }
+    
+    @org.junit.Test()
+    public final void tintRendering_dualLayerItem_hairFrontAndHairBack_bothTintedIdentically() {
+    }
+    
+    @org.junit.Test()
+    public final void tintRendering_exportedBitmapEqualsOnScreenMultiplyFormula() {
+    }
+}

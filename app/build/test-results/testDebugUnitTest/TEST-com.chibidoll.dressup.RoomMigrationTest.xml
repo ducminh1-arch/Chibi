@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.chibidoll.dressup.RoomMigrationTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2026-11-13T08:17:01" hostname="DESKTOP-TPKLOP0" time="1.545">
+  <properties/>
+  <testcase name="allMigrations_1_to_3_endToEnd_migratesCleanlyAndRoomCanQuery" classname="com.chibidoll.dressup.RoomMigrationTest" time="1.043"/>
+  <testcase name="migration_1_to_2_addsLayerColorsJsonColumn_againstCommittedSchemas" classname="com.chibidoll.dressup.RoomMigrationTest" time="0.198"/>
+  <testcase name="migration_2_to_3_addsPresetIdColumn_defaultNullForOldRows_againstCommittedSchemas" classname="com.chibidoll.dressup.RoomMigrationTest" time="0.304"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,416 @@
+{
+  "palettes": [
+    {
+      "id": "hair",
+      "nameEn": "Hair Colors",
+      "nameVi": "Màu tóc",
+      "swatches": [
+        {
+          "id": "pink_bubblegum",
+          "nameEn": "Bubblegum Pink",
+          "nameVi": "Hồng kẹo ngọt",
+          "color": "0xFFFF8DAA"
+        },
+        {
+          "id": "purple_lilac",
+          "nameEn": "Lilac Purple",
+          "nameVi": "Tím tử đinh hương",
+          "color": "0xFFC7B8EA"
+        },
+        {
+          "id": "blue_pastel",
+          "nameEn": "Pastel Blue",
+          "nameVi": "Xanh lam nhạt",
+          "color": "0xFFA2D2FF"
+        },
+        {
+          "id": "mint_green",
+          "nameEn": "Mint Green",
+          "nameVi": "Xanh bạc hà",
+          "color": "0xFFB5EAD7"
+        },
+        {
+          "id": "blonde_sunny",
+          "nameEn": "Sunny Blonde",
+          "nameVi": "Vàng óng ả",
+          "color": "0xFFFFE57F"
+        },
+        {
+          "id": "silver_platinum",
+          "nameEn": "Platinum Silver",
+          "nameVi": "Bạch kim",
+          "color": "0xFFE0E0E0"
+        },
+        {
+          "id": "brown_chestnut",
+          "nameEn": "Chestnut Brown",
+          "nameVi": "Nâu hạt dẻ",
+          "color": "0xFF8D6E63"
+        },
+        {
+          "id": "caramel_honey",
+          "nameEn": "Honey Caramel",
+          "nameVi": "Nâu mật ong",
+          "color": "0xFFD7CCC8"
+        },
+        {
+          "id": "rose_strawberry",
+          "nameEn": "Strawberry Rose",
+          "nameVi": "Hồng dâu tây",
+          "color": "0xFFFF758C"
+        },
+        {
+          "id": "lavender_mist",
+          "nameEn": "Lavender Mist",
+          "nameVi": "Tím khói",
+          "color": "0xFFB39DDB"
+        },
+        {
+          "id": "black_midnight",
+          "nameEn": "Midnight Black",
+          "nameVi": "Đen tuyền",
+          "color": "0xFF37474F"
+        },
+        {
+          "id": "red_ruby",
+          "nameEn": "Ruby Red",
+          "nameVi": "Đỏ hồng ngọc",
+          "color": "0xFFE57373"
+        },
+        {
+          "id": "peach_coral",
+          "nameEn": "Coral Peach",
+          "nameVi": "Cam đào",
+          "color": "0xFFFFAB91"
+        },
+        {
+          "id": "milk_tea",
+          "nameEn": "Milk Tea",
+          "nameVi": "Nâu trà sữa",
+          "color": "0xFFD7B99C"
+        },
+        {
+          "id": "white_snow",
+          "nameEn": "Snow White",
+          "nameVi": "Trắng tuyết",
+          "color": "0xFFF5F5F5"
+        },
+        {
+          "id": "sky_aqua",
+          "nameEn": "Aqua Sky",
+          "nameVi": "Xanh thiên thanh",
+          "color": "0xFF80DEEA"
+        }
+      ]
+    },
+    {
+      "id": "skin",
+      "nameEn": "Skin Tones",
+      "nameVi": "Màu da",
+      "swatches": [
+        {
+          "id": "skin_porcelain",
+          "nameEn": "Porcelain",
+          "nameVi": "Trắng sứ",
+          "color": "0xFFFFF5EE"
+        },
+        {
+          "id": "skin_fair_ivory",
+          "nameEn": "Fair Ivory",
+          "nameVi": "Trắng ngà",
+          "color": "0xFFFFECE0"
+        },
+        {
+          "id": "skin_warm_peach",
+          "nameEn": "Warm Peach",
+          "nameVi": "Hồng đào",
+          "color": "0xFFFFE4D6"
+        },
+        {
+          "id": "skin_cream_beige",
+          "nameEn": "Cream Beige",
+          "nameVi": "Be sáng",
+          "color": "0xFFFDE2CE"
+        },
+        {
+          "id": "skin_honey",
+          "nameEn": "Honey",
+          "nameVi": "Mật ong",
+          "color": "0xFFF5D6BA"
+        },
+        {
+          "id": "skin_soft_tan",
+          "nameEn": "Soft Tan",
+          "nameVi": "Rám nắng nhẹ",
+          "color": "0xFFECC29E"
+        },
+        {
+          "id": "skin_golden_sand",
+          "nameEn": "Golden Sand",
+          "nameVi": "Cát vàng",
+          "color": "0xFFDFB28D"
+        },
+        {
+          "id": "skin_sun_kissed",
+          "nameEn": "Sun-Kissed",
+          "nameVi": "Bánh mật",
+          "color": "0xFFCCA07D"
+        },
+        {
+          "id": "skin_bronze",
+          "nameEn": "Bronze",
+          "nameVi": "Đồng ấm",
+          "color": "0xFFB88965"
+        },
+        {
+          "id": "skin_mocha",
+          "nameEn": "Mocha",
+          "nameVi": "Mocha",
+          "color": "0xFFA57652"
+        },
+        {
+          "id": "skin_caramel",
+          "nameEn": "Rich Caramel",
+          "nameVi": "Caramel đậm",
+          "color": "0xFF8E613F"
+        },
+        {
+          "id": "skin_espresso",
+          "nameEn": "Espresso",
+          "nameVi": "Espresso",
+          "color": "0xFF734B30"
+        },
+        {
+          "id": "skin_fair_rose",
+          "nameEn": "Fair Rose",
+          "nameVi": "Trắng ửng hồng",
+          "color": "0xFFFFE4E1"
+        },
+        {
+          "id": "skin_vanilla",
+          "nameEn": "Vanilla",
+          "nameVi": "Vani",
+          "color": "0xFFFFF0E6"
+        },
+        {
+          "id": "skin_almond",
+          "nameEn": "Almond",
+          "nameVi": "Hạnh nhân",
+          "color": "0xFFE8C8AE"
+        },
+        {
+          "id": "skin_cocoa",
+          "nameEn": "Cocoa",
+          "nameVi": "Ca cao",
+          "color": "0xFF5C3A21"
+        }
+      ]
+    },
+    {
+      "id": "eyes",
+      "nameEn": "Eye Colors",
+      "nameVi": "Màu mắt",
+      "swatches": [
+        {
+          "id": "eye_purple",
+          "nameEn": "Amethyst Purple",
+          "nameVi": "Tím thạch anh",
+          "color": "0xFFAB47BC"
+        },
+        {
+          "id": "eye_sapphire",
+          "nameEn": "Sapphire Blue",
+          "nameVi": "Xanh lam ngọc",
+          "color": "0xFF1E88E5"
+        },
+        {
+          "id": "eye_emerald",
+          "nameEn": "Emerald Green",
+          "nameVi": "Xanh lục bảo",
+          "color": "0xFF43A047"
+        },
+        {
+          "id": "eye_amber",
+          "nameEn": "Amber Gold",
+          "nameVi": "Hổ phách",
+          "color": "0xFFFFB300"
+        },
+        {
+          "id": "eye_ruby",
+          "nameEn": "Ruby Crimson",
+          "nameVi": "Đỏ thẫm",
+          "color": "0xFFE53935"
+        },
+        {
+          "id": "eye_aquamarine",
+          "nameEn": "Aquamarine",
+          "nameVi": "Xanh ngọc bích",
+          "color": "0xFF26C6DA"
+        },
+        {
+          "id": "eye_chocolate",
+          "nameEn": "Chocolate Brown",
+          "nameVi": "Nâu socola",
+          "color": "0xFF6D4C41"
+        },
+        {
+          "id": "eye_black",
+          "nameEn": "Obsidian Black",
+          "nameVi": "Đen huyền",
+          "color": "0xFF263238"
+        },
+        {
+          "id": "eye_violet",
+          "nameEn": "Violet Berry",
+          "nameVi": "Tím quả mọng",
+          "color": "0xFF8E24AA"
+        },
+        {
+          "id": "eye_hazel",
+          "nameEn": "Hazel",
+          "nameVi": "Mắt hạt dẻ",
+          "color": "0xFF8D6E63"
+        },
+        {
+          "id": "eye_turquoise",
+          "nameEn": "Turquoise",
+          "nameVi": "Xanh mòng két",
+          "color": "0xFF00ACC1"
+        },
+        {
+          "id": "eye_rose",
+          "nameEn": "Rose Quartz",
+          "nameVi": "Hồng thạch anh",
+          "color": "0xFFEC407A"
+        },
+        {
+          "id": "eye_topaz",
+          "nameEn": "Golden Topaz",
+          "nameVi": "Hoàng ngọc",
+          "color": "0xFFFDD835"
+        },
+        {
+          "id": "eye_jade",
+          "nameEn": "Soft Jade",
+          "nameVi": "Ngọc bích dịu",
+          "color": "0xFF66BB6A"
+        },
+        {
+          "id": "eye_sky",
+          "nameEn": "Sky Blue",
+          "nameVi": "Xanh da trời",
+          "color": "0xFF42A5F5"
+        },
+        {
+          "id": "eye_plum",
+          "nameEn": "Dark Plum",
+          "nameVi": "Mận đen",
+          "color": "0xFF5E35B1"
+        }
+      ]
+    },
+    {
+      "id": "general",
+      "nameEn": "Clothes & Accessories",
+      "nameVi": "Trang phục & Phụ kiện",
+      "swatches": [
+        {
+          "id": "color_pastel_pink",
+          "nameEn": "Pastel Pink",
+          "nameVi": "Hồng phấn",
+          "color": "0xFFFFB6C1"
+        },
+        {
+          "id": "color_cotton_candy",
+          "nameEn": "Cotton Candy",
+          "nameVi": "Kẹo bông",
+          "color": "0xFFFF8DAA"
+        },
+        {
+          "id": "color_lavender",
+          "nameEn": "Soft Lavender",
+          "nameVi": "Oải hương",
+          "color": "0xFFD8B4F8"
+        },
+        {
+          "id": "color_periwinkle",
+          "nameEn": "Periwinkle",
+          "nameVi": "Xanh tím hoa cà",
+          "color": "0xFFB39DDB"
+        },
+        {
+          "id": "color_sky_blue",
+          "nameEn": "Sky Blue",
+          "nameVi": "Xanh da trời",
+          "color": "0xFFA2D2FF"
+        },
+        {
+          "id": "color_mint_sorbet",
+          "nameEn": "Mint Sorbet",
+          "nameVi": "Kem bạc hà",
+          "color": "0xFFB5EAD7"
+        },
+        {
+          "id": "color_butter_yellow",
+          "nameEn": "Butter Yellow",
+          "nameVi": "Vàng bơ",
+          "color": "0xFFFFF1AA"
+        },
+        {
+          "id": "color_peach_cream",
+          "nameEn": "Peach Cream",
+          "nameVi": "Kem đào",
+          "color": "0xFFFFDAC1"
+        },
+        {
+          "id": "color_coral_blush",
+          "nameEn": "Coral Blush",
+          "nameVi": "Hồng san hô",
+          "color": "0xFFFF758C"
+        },
+        {
+          "id": "color_rose_red",
+          "nameEn": "Ruby Rose",
+          "nameVi": "Đỏ hoa hồng",
+          "color": "0xFFE57373"
+        },
+        {
+          "id": "color_royal_purple",
+          "nameEn": "Royal Purple",
+          "nameVi": "Tím hoàng gia",
+          "color": "0xFF9575CD"
+        },
+        {
+          "id": "color_navy_blue",
+          "nameEn": "Navy Blue",
+          "nameVi": "Xanh hải quân",
+          "color": "0xFF3F51B5"
+        },
+        {
+          "id": "color_forest_mint",
+          "nameEn": "Sage Green",
+          "nameVi": "Xanh xô thơm",
+          "color": "0xFF81C784"
+        },
+        {
+          "id": "color_slate_gray",
+          "nameEn": "Slate Gray",
+          "nameVi": "Xám ghi",
+          "color": "0xFF90A4AE"
+        },
+        {
+          "id": "color_pure_white",
+          "nameEn": "Pure White",
+          "nameVi": "Trắng tinh",
+          "color": "0xFFFFFFFF"
+        },
+        {
+          "id": "color_soft_black",
+          "nameEn": "Soft Black",
+          "nameVi": "Đen dịu",
+          "color": "0xFF37474F"
+        }
+      ]
+    }
+  ]
+}

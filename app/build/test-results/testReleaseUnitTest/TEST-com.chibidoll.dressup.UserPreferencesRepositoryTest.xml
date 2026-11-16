@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.chibidoll.dressup.UserPreferencesRepositoryTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2026-11-11T09:48:52" hostname="DESKTOP-TPKLOP0" time="0.45">
+  <properties/>
+  <testcase name="defaultPreferences_returnsSensibleDefaults" classname="com.chibidoll.dressup.UserPreferencesRepositoryTest" time="0.198"/>
+  <testcase name="soundManager_respectsMuteFlag" classname="com.chibidoll.dressup.UserPreferencesRepositoryTest" time="0.045"/>
+  <testcase name="setLanguageCode_updatesAndPersistsLanguage" classname="com.chibidoll.dressup.UserPreferencesRepositoryTest" time="0.074"/>
+  <testcase name="setSoundEnabled_togglesSoundSetting" classname="com.chibidoll.dressup.UserPreferencesRepositoryTest" time="0.054"/>
+  <testcase name="setOnboardingCompleted_updatesFlow" classname="com.chibidoll.dressup.UserPreferencesRepositoryTest" time="0.078"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

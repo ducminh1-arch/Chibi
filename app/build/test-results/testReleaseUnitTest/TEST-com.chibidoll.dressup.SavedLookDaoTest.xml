@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.chibidoll.dressup.SavedLookDaoTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2026-11-11T09:48:50" hostname="DESKTOP-TPKLOP0" time="0.932">
+  <properties/>
+  <testcase name="updateLook_isIdempotent" classname="com.chibidoll.dressup.SavedLookDaoTest" time="0.151"/>
+  <testcase name="deleteLook_removesRecordSuccessfully" classname="com.chibidoll.dressup.SavedLookDaoTest" time="0.128"/>
+  <testcase name="getLookById_returnsCorrectRecord" classname="com.chibidoll.dressup.SavedLookDaoTest" time="0.266"/>
+  <testcase name="insertAndGetLooks_orderedNewestFirst" classname="com.chibidoll.dressup.SavedLookDaoTest" time="0.156"/>
+  <testcase name="editLook_changeColor_save_updatesSameRecord_noDuplicate_preservesPresetIdAndLayerColors" classname="com.chibidoll.dressup.SavedLookDaoTest" time="0.228"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

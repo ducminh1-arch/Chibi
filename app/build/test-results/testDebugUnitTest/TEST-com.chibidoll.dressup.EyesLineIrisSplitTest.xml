@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.chibidoll.dressup.EyesLineIrisSplitTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2026-11-13T08:17:00" hostname="DESKTOP-TPKLOP0" time="0.187">
+  <properties/>
+  <testcase name="eyesLineAndIris_properZOrder_andTintSeparation" classname="com.chibidoll.dressup.EyesLineIrisSplitTest" time="0.093"/>
+  <testcase name="export_rendersIrisThenLine_andNeverClosedAltFile" classname="com.chibidoll.dressup.EyesLineIrisSplitTest" time="0.094"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

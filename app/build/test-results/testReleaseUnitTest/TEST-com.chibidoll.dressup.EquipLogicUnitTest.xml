@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.chibidoll.dressup.EquipLogicUnitTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2026-11-11T09:48:43" hostname="DESKTOP-TPKLOP0" time="0.011">
+  <properties/>
+  <testcase name="cannotUnequipBodyBase" classname="com.chibidoll.dressup.EquipLogicUnitTest" time="0.002"/>
+  <testcase name="hairEquipsBothFrontAndBackInRenderLayers" classname="com.chibidoll.dressup.EquipLogicUnitTest" time="0.002"/>
+  <testcase name="equippingDressRemovesTopAndBottom" classname="com.chibidoll.dressup.EquipLogicUnitTest" time="0.0"/>
+  <testcase name="equippingTopRemovesDress" classname="com.chibidoll.dressup.EquipLogicUnitTest" time="0.001"/>
+  <testcase name="equippingBottomRemovesDress" classname="com.chibidoll.dressup.EquipLogicUnitTest" time="0.001"/>
+  <testcase name="backgroundToggleWorks" classname="com.chibidoll.dressup.EquipLogicUnitTest" time="0.001"/>
+  <testcase name="tapEquippedItemUnequipsIt" classname="com.chibidoll.dressup.EquipLogicUnitTest" time="0.0"/>
+  <testcase name="selectBackgroundExplicitlySetsBackground" classname="com.chibidoll.dressup.EquipLogicUnitTest" time="0.002"/>
+  <testcase name="renderLayersAreStrictlyOrderedByZIndex" classname="com.chibidoll.dressup.EquipLogicUnitTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

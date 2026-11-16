@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.chibidoll.dressup.TintCompositingPixelTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2026-11-11T09:48:51" hostname="DESKTOP-TPKLOP0" time="0.759">
+  <properties/>
+  <testcase name="tintRendering_dualLayerItem_hairFrontAndHairBack_bothTintedIdentically" classname="com.chibidoll.dressup.TintCompositingPixelTest" time="0.254"/>
+  <testcase name="tintRendering_exportedBitmapEqualsOnScreenMultiplyFormula" classname="com.chibidoll.dressup.TintCompositingPixelTest" time="0.153"/>
+  <testcase name="tintRendering_whiteFillBecomesSwatchColor_darkOutlineStaysDark_transparentShowsBackground" classname="com.chibidoll.dressup.TintCompositingPixelTest" time="0.352"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
