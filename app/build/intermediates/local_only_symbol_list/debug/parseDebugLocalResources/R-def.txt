@@ -8,7 +8,9 @@ color primary_pastel_purple
 color white
 drawable ic_launcher
 drawable ic_launcher_background
+drawable ic_launcher_background_raster
 drawable ic_launcher_foreground
+drawable ic_launcher_foreground_raster
 drawable ic_launcher_round
 mipmap ic_launcher
 mipmap ic_launcher_round

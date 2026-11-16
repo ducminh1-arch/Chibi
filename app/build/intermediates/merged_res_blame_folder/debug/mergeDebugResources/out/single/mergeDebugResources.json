@@ -1,7 +1,55 @@
 [
     {
+        "merged": "com.chibidoll.dressup.app-debug-65:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.chibidoll.dressup.app-main-67:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.chibidoll.dressup.app-debug-65:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.chibidoll.dressup.app-main-67:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.chibidoll.dressup.app-debug-65:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.chibidoll.dressup.app-main-67:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.chibidoll.dressup.app-debug-65:/drawable-nodpi_ic_launcher_background_raster.png.flat",
+        "source": "com.chibidoll.dressup.app-main-67:/drawable-nodpi/ic_launcher_background_raster.png"
+    },
+    {
+        "merged": "com.chibidoll.dressup.app-debug-65:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.chibidoll.dressup.app-main-67:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.6\\com.chibidoll.dressup.app-debug-65:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.6\\com.chibidoll.dressup.app-main-67:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.chibidoll.dressup.app-debug-65:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.chibidoll.dressup.app-main-67:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.6\\com.chibidoll.dressup.app-debug-65:\\xml_locales_config.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.6\\com.chibidoll.dressup.app-main-67:\\xml\\locales_config.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.6\\com.chibidoll.dressup.app-debug-65:\\xml_file_paths.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.6\\com.chibidoll.dressup.app-main-67:\\xml\\file_paths.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.6\\com.chibidoll.dressup.app-debug-65:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.6\\com.chibidoll.dressup.app-main-67:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.chibidoll.dressup.app-debug-65:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.chibidoll.dressup.app-main-67:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
         "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.6\\com.chibidoll.dressup.app-debug-65:\\drawable_ic_launcher.xml.flat",
         "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.6\\com.chibidoll.dressup.app-main-67:\\drawable\\ic_launcher.xml"
+    },
+    {
+        "merged": "com.chibidoll.dressup.app-debug-65:/drawable-nodpi_ic_launcher_foreground_raster.png.flat",
+        "source": "com.chibidoll.dressup.app-main-67:/drawable-nodpi/ic_launcher_foreground_raster.png"
     },
     {
         "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.6\\com.chibidoll.dressup.app-debug-65:\\drawable_ic_launcher_foreground.xml.flat",
@@ -12,23 +60,31 @@
         "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.6\\com.chibidoll.dressup.app-main-67:\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
-        "merged": "com.chibidoll.dressup.app-debug-65:/xml_locales_config.xml.flat",
-        "source": "com.chibidoll.dressup.app-main-67:/xml/locales_config.xml"
+        "merged": "com.chibidoll.dressup.app-debug-65:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.chibidoll.dressup.app-main-67:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.chibidoll.dressup.app-debug-65:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.chibidoll.dressup.app-main-67:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.chibidoll.dressup.app-debug-65:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.chibidoll.dressup.app-main-67:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.chibidoll.dressup.app-debug-65:/drawable_ic_launcher_background.png.flat",
+        "source": "com.chibidoll.dressup.app-main-67:/drawable/ic_launcher_background.png"
     },
     {
         "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.6\\com.chibidoll.dressup.app-debug-65:\\drawable_ic_launcher_round.xml.flat",
         "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.6\\com.chibidoll.dressup.app-main-67:\\drawable\\ic_launcher_round.xml"
     },
     {
-        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.6\\com.chibidoll.dressup.app-debug-65:\\drawable_ic_launcher_background.xml.flat",
-        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.6\\com.chibidoll.dressup.app-main-67:\\drawable\\ic_launcher_background.xml"
+        "merged": "com.chibidoll.dressup.app-debug-65:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.chibidoll.dressup.app-main-67:/mipmap-xxhdpi/ic_launcher_round.png"
     },
     {
-        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.6\\com.chibidoll.dressup.app-debug-65:\\xml_file_paths.xml.flat",
-        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.6\\com.chibidoll.dressup.app-main-67:\\xml\\file_paths.xml"
-    },
-    {
-        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.6\\com.chibidoll.dressup.app-debug-65:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.6\\com.chibidoll.dressup.app-main-67:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+        "merged": "com.chibidoll.dressup.app-debug-65:/drawable_ic_launcher_foreground.png.flat",
+        "source": "com.chibidoll.dressup.app-main-67:/drawable/ic_launcher_foreground.png"
     }
 ]
